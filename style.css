@@ -2,9 +2,26 @@
 body{
 	margin:0;
 	padding:0;
-	background:#9a9290;
+	background-color: pink;
 }
 
-body{
-	background-color: pink;
+h1{
+	font-family: Futura;
+	z-index: 1;
+	color: orange;
+	font-size: 50px;
+	position: center;
+	text-shadow: 3px 2px grey;
+	position: relative;
+	
+}
+h2{
+	font-family: Futura;
+	z-index: 1;
+	color: orange;
+	font-size: 50px;
+	position: center;
+	text-shadow: 3px 2px grey;
+	position: relative;
+	
 }
