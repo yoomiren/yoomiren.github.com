@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Yoomi - Gallery Layout</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<p>
+<img src=”large.jpg”> 
+<img src=”large-1.jpg”>
+<img src=”larger.jpg”>
+<img src=”larger-5.jpg”>
+<img src=”large-4.jpg”>
+</p>
+
+</body>
+</html>
