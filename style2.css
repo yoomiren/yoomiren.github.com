@@ -2,10 +2,10 @@ html, body {
   height:100%;
 }
 body {
-  font-size:100%;
+  font-size:150%;
   margin:0;
   background:black;
-  font-family:georgia;
+  font-family:helvetica;
   text-align:center;
 }
 .slide{
@@ -44,7 +44,7 @@ p { font-size:1.7em; font-size:2.25vw; line-height:1.4; margin:.2em auto;}
 .cover{background: #f2eee2;}
 
 .p1{background: #eef0fd;}
-.p2{background: url(http://www.eznetu.com/happy-giant.png) no-repeat bottom #9cddee; 
+.p2{background: #9cddee;
   background-size:auto 50%; 
 }	
 .p3{background:  #f3c36f;
@@ -52,7 +52,7 @@ p { font-size:1.7em; font-size:2.25vw; line-height:1.4; margin:.2em auto;}
 .p4{background: #def;}
 .p5{background: #123; color:#ccc;}
 .p6 {background:#800; color:#ffe;}
-.p7 { background:url(http://www.eznetu.com/beanstalk-rough.png) right bottom no-repeat #59c;
+.p7 { background:#59c;
   background-size:auto 100%; 
 color:#cfa;
 }
