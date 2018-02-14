@@ -74,15 +74,6 @@ color:#cfa;
 }
 
 
-.floating {
-  border:solid transparent;
-animation: floating 5s ease-in-out infinite;
-}
-
-@keyframes floating {
-  50% {transform: translateY(9px);}
-}
-
 
 @media screen and (max-width:600px) {
   body{
