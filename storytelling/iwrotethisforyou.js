@@ -1,3 +1,4 @@
+
 $(function() {
   $('.box').on('click touchstart', function(e) {
     event.stopPropagation();
@@ -14,4 +15,6 @@ $(function() {
 
 $(document).on("click touchstart touchend", function () {
     $('.box').removeClass('touched');
-	});
+  });
+
+
