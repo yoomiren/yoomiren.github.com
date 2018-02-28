@@ -101,3 +101,9 @@ ul a li{
   padding-top: 35px;
   text-align:center;
 }
+
+a {
+  font-family: helvetica, sans-serif;
+  font-size: 30px;
+  color: black;
+}
