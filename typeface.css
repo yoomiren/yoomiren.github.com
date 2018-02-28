@@ -1,0 +1,260 @@
+@charset "utf-8";
+content {
+	size: 100%;
+	z-index: 2;
+}
+.st0
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 254pt;
+	top : 156pt;
+}
+
+.st1
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 199pt;
+	top : 143pt;
+}
+.st2
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 267pt;
+	top : 156pt;
+}
+.st3
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 148pt;
+	top : 156pt;
+}
+.st4
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 199pt;
+	top : 130pt;
+}
+.st5
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 225pt;
+	top : 117pt;
+}
+.st6
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 148pt;
+	top : 117pt;
+}
+.st7
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 111pt;
+	top : 156pt;
+}
+.st8
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 175pt;
+	top : 130pt;
+}
+.st9
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 148pt;
+	top : 130pt;
+}
+.st10
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 148pt;
+	top : 143pt;
+}
+.st11
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 225pt;
+	top : 130pt;
+}
+.st12
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 124pt;
+	top : 156pt;
+}
+.st13
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 254pt;
+	top : 143pt;
+}
+.st14
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 98pt;
+	top : 117pt;
+}
+.st15
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 98pt;
+	top : 156pt;
+}
+.st16
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 175pt;
+	top : 143pt;
+}
+.st17
+{
+	background : -moz-linear-gradient(0% 50% 0deg,rgba(255, 255, 255, 1) 0%,rgba(0, 0, 0, 1) 100%);
+	background : -webkit-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 100%);
+	background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(1,rgba(0, 0, 0, 1) ));
+	background : -o-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 100%);
+	background : -ms-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#000000' ,GradientType=0)";
+	background : linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 100%);
+	position : absolute ;
+	left : 29pt;
+	top : 52pt;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF',endColorstr='#000000' , GradientType=1);
+}
+.st18
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 175pt;
+	top : 156pt;
+}
+.st19
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 199pt;
+	top : 117pt;
+}
+.st20
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 162pt;
+	top : 156pt;
+}
+.st21
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 175pt;
+	top : 117pt;
+}
+.st22
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 162pt;
+	top : 117pt;
+}
+.st23
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 212pt;
+	top : 156pt;
+}
+.st24
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 254pt;
+	top : 130pt;
+}
+.st25
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 98pt;
+	top : 130pt;
+}
+.st26
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 225pt;
+	top : 143pt;
+}
+.st27
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 267pt;
+	top : 136pt;
+}
+.st28
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 267pt;
+	top : 117pt;
+}
+.st29
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 98pt;
+	top : 143pt;
+}
+.st30
+{
+	background : #231F20;
+	background : rgba(35, 31, 32, 1);
+	position : absolute ;
+	left : 254pt;
+	top : 117pt;
+}
