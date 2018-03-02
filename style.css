@@ -7,11 +7,9 @@ body{
 
 h1{
 	font-family: Futura;
-	z-index: 1;
-	color: white;
-	font-size: 50px;
+	color: #191970;
+	font-size: 25px;
 	position: center;
-	text-shadow: 3px 2px grey;
 	position: relative;
 	
 }
@@ -22,7 +20,14 @@ h2{
 	color: white;
 	font-size: 50px;
 	position: center;
-	text-shadow: 3px 2px grey;
+	text-shadow: 3px 2px #191970;
 	position: relative;
 	
+}
+
+a{
+ font-family: Futura;
+font-size: 30px;
+color: grey;
+
 }
