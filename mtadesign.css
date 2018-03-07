@@ -57,6 +57,11 @@ span {
   margin-bottom: 4px;
   font-size: 130%;
   color: white;
+  
+}
+
+span:hover {
+  transition: 1s;
 }
 span:last-child {
   margin-right: 0;
