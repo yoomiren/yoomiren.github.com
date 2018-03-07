@@ -1,0 +1,92 @@
+body {
+  background: black;
+}
+
+header {
+
+  color: white;
+  padding: 1em 1em 0.5em;
+  font-family: Helvetica;
+  font-size: 100%;
+}
+
+header h2 {
+  font-size: 250%;
+  margin-bottom: 0.4em;
+  font-weight: bold;
+  color: white;
+}
+
+header h3 {
+  font-size: 200%
+  font-weight:bold;
+  color: red;
+
+}
+
+header h4 {
+  font-size:150%;
+  color:green;
+}
+
+header h3 {
+  font-size: 200%;
+}
+
+header h1 {
+  font-size: 500%;
+  font-weight: bold;
+}
+
+
+
+span {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-right: 4px;
+  margin-bottom: 4px;
+  font-size: 130%;
+  color: white;
+}
+span:last-child {
+  margin-right: 0;
+}
+
+span.A {
+  background: #0039A6;
+}
+
+span.B {
+  background: #FF6319;
+}
+
+span.L {
+  background: #A7A9AC;
+}
+
+span.N {
+  background: #FCCC0A;
+  color: black;
+}
+
+span.one {
+  background: #EE352E;
+}
+
+span.four {
+  background: #00933C;
+}
+
+span.seven {
+  background: #B933AD;
+}
