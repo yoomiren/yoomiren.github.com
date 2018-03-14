@@ -14,14 +14,17 @@ function startTime() {
     var t = setTimeout(startTime, 500);
 }
 function checkTime(i) {
-    if (i < 10) {i = "0" + i};  
+    if (i < 10) {i = "0" + i}; 
+    return i;
 }
 </script>
 </head>
 
 <body onload="startTime()">
-<b><P>This is a clock </p><b>
+<b><P>This is a clock. </p><b>
+
 <div id="txt"></div>
 
 </body>
 </html>
+
