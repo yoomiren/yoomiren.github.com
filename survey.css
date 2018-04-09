@@ -32,7 +32,7 @@ a, button, input {
   font-size: 1rem;
   text-align: center;
   text-transform: uppercase;
-  color: black;
+  color: white;
   border: none;
   background:  #ffc0cb;
   border-radius: 0.5rem;
@@ -54,4 +54,9 @@ a:active, button:active, input:active {
 
 button {
   font-family: futura;
+}
+
+time {
+  color: white;
+  margin-top: -90px;
 }
