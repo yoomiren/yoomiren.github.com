@@ -1,0 +1,38 @@
+body{
+  min-width:500px;
+}
+p{
+  color:black;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size:140px;
+  text-align:center;
+  margin-top:100px;
+  height:200px;
+}
+.block{
+  width:300px;
+  margin:0 auto;
+  position:;
+}
+.btn{
+  text-transform:uppercase;
+  padding:8px 13px;
+  margin-left:10px;
+  background:pink;
+  color:white;
+  border-radius:5px;
+  cursor:pointer;
+  }
+
+.btn:hover{
+  color:black;
+  background:white;
+  cursor:pointer;
+  box-shadow:2px 2px 3px black;
+  transition:all 0.25s ease-out;
+    
+}
+ .btn:first-child{
+  margin-left:0;
+  }
