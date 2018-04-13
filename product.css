@@ -161,14 +161,16 @@ section [header] nav ul li {
   padding-top: 150px;
 }
 [content] [largetext] {
-  font-size: 5vw;
+  font-size: 6vw;
   max-width: 80%;
   text-transform: uppercase;
   text-align: center;
   font-weight: 700;
+  color: white;
+  margin-top: 80px;
 }
 [content] [largetext] span {
-  border-bottom: 5px solid black;
+  border-bottom: 5px ;
   display: block;
 }
 

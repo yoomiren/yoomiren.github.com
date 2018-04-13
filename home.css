@@ -1,0 +1,115 @@
+body {
+  font-family: futura, sans-serif;
+  font-weight: 300;
+  background-color: #ffd0d0;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: left;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+  color:white;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+.jumbotron{
+  display: flex;
+  align-items: center;
+  background-image: url('cutecat.jpg');
+  background-size: cover;
+  color: white;
+  height: 500px;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: white;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: white;
+    font-size: 40px;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+.col-md-6 {
+  margin: 0 0 20px;
+}
+
+.btn.btn-primary {
+  border-radius: 3px;
+  border: 1px;
+  color:#ffffff ;
+  text-shadow: none;
+  background-color:#fbd1d5 ;
+  font-size: 15px;
+}
+
+.btn.btn-primary:hover {
+  color: black;
+  background-color: #fbd1d5;
+}
+
+.btn-secondary {
+  background-color: white ;
+  color: #fbd1d5 ;
+  margin: 0 0 30px;
+  font-size: 20px;
+}
+
+.btn-secondary:hover {
+ color: black;
+  background-color: white;
+  border-radius: 3;
+}
+
+.myButton {
+  background-color:white;
+  -moz-border-radius:30px;
+  -webkit-border-radius:30px;
+  border-radius:32px;
+  border:1px solid pink;
+  display:inline-block;
+  cursor:pointer;
+  color:pink;
+  font-family:futura;
+  font-size:17px;
+  padding:5px 23px;
+ margin-left: 1100px;
+ margin-top:30px;
+}
+
+.myButton:hover {
+  background-color:black;
+  color: pink;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
+
