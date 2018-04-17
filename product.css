@@ -20,74 +20,88 @@ body, html {
 }
 
 [projectlist] > div:nth-of-type(1) {
-  background-image: url("product1.jpg");
+  background-image: url("food1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(2) {
-  background-image: url("product2.jpg");
+  background-image: url("food2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(3) {
-  background-image: url("blackdog.jpg");
+  background-image: url("food3.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(4) {
-  background-image: url("blackdog.jpg");
+  background-image: url("snack.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(5) {
-  background-image: url("blackdog.jpg");
+  background-image: url("tin 2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(6) {
-  background-image: url("blackdog.jpg");
+  background-image: url("can.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(7) {
-  background-image: url("blackdog.jpg");
+  background-image: url("soup.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(8) {
-  background-image: url("blackdog.jpgg");
+  background-image: url("product1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(9) {
-  background-image: url("blackdog.jpg");
+  background-image: url("food6.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 [projectlist] > div:nth-of-type(10) {
-  background-image: url("blackdog.jpg");
+  background-image: url("soup.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
+
+[projectlist] > div:nth-of-type(11) {
+  background-image: url("can.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+[projectlist] > div:nth-of-type(12) {
+  background-image: url(".jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 
 
 
@@ -251,10 +265,12 @@ section [header] nav ul li {
 }
 [projectlist] div:nth-of-type(10) {
   grid-column-start: 1;
-  grid-column-end: 4;
-  grid-row-start: 6;
-  grid-row-end: 7;
+  grid-column-end: 2;
+  grid-row-start: 4;
+  grid-row-end: 5;
 }
+
+
 [projectlist] div {
   position: relative;
 }
@@ -299,3 +315,35 @@ section [header] nav ul li {
 [projectlist] div > p span:nth-of-type(2) {
   transition-delay: .5s;
 }
+
+
+.myButton {
+  background-color:white;
+  -moz-border-radius:30px;
+  -webkit-border-radius:30px;
+  border-radius:30px;
+  border:3px solid pink;
+  display:inline-block;
+  cursor:pointer;
+  color:pink;
+  font-family:futura;
+  font-size:18px;
+  padding:5px 25px;
+ margin-left: 15px;
+ margin-top:30px;
+}
+
+.myButton:hover {
+  background-color:pink;
+  color: white;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
+
+h1 {
+  font-family: futura;
+  font-size: 20px;
+}
+

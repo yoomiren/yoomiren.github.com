@@ -63,53 +63,85 @@ section .row img {
 
 .btn.btn-primary {
   border-radius: 3px;
-  border: 1px;
-  color:#ffffff ;
+  border: 2px;
+  color:white;
   text-shadow: none;
-  background-color:#fbd1d5 ;
-  font-size: 15px;
+  background-color:white ;
+  font-size: 20px;
+   -moz-border-radius:30px;
+  -webkit-border-radius:30px;
+  border-radius:30px;
+  border:3px solid pink;
+  display:inline-block;
+  cursor:pointer;
+  color:pink;
 }
 
 .btn.btn-primary:hover {
-  color: black;
+  color: white;
   background-color: #fbd1d5;
+   -moz-border-radius:30px;
+  -webkit-border-radius:30px;
+
 }
 
 .btn-secondary {
-  background-color: white ;
+  background-color:white ;
   color: #fbd1d5 ;
   margin: 0 0 30px;
   font-size: 20px;
+   -moz-border-radius:30px;
+  -webkit-border-radius:30px;
+   -moz-border-radius:30px;
+  -webkit-border-radius:30px;
+  border-radius:30px;
+  border:3px solid pink;
+  display:inline-block;
+  cursor:pointer;
+  color:pink;
+
 }
 
 .btn-secondary:hover {
- color: black;
-  background-color: white;
-  border-radius: 3;
+ color:white;
+  background-color:#fbd1d5 ;
+  border-radius: 3px;
+   -moz-border-radius:30px;
+  -webkit-border-radius:30px;
+
 }
 
 .myButton {
   background-color:white;
   -moz-border-radius:30px;
   -webkit-border-radius:30px;
-  border-radius:32px;
-  border:1px solid pink;
+  border-radius:30px;
+  border:3px solid pink;
   display:inline-block;
   cursor:pointer;
   color:pink;
   font-family:futura;
   font-size:17px;
-  padding:5px 23px;
- margin-left: 1100px;
- margin-top:30px;
+  padding:4px 30px;
+ margin-left: 800px;
+ margin-top:20px;
 }
 
 .myButton:hover {
-  background-color:black;
-  color: pink;
+  background-color:pink;
+  color: white;
 }
 .myButton:active {
   position:relative;
   top:1px;
 }
-
+h1 {
+  font-family: futura;
+  font-size: 30px;
+  color: white;
+}
+h2 {
+  font-family: futura;
+  font-size: 20px;
+  color: white;
+}
