@@ -1,0 +1,23 @@
+.wrap {
+  text-align: center;
+  max-width: 1000px;
+  margin: 5em auto;
+}
+
+.main-paragraph {
+  text-align: left;
+}
+
+a {
+  color: black;
+}
+
+body {
+  font-family: "futura";
+  color: black;
+ background-image: url(dogball.jpg);
+ background-repeat: no-repeat;
+ background-size: 100%;
+  font-size: 30px;
+
+}
