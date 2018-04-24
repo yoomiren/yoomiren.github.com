@@ -6,18 +6,20 @@
 
 .main-paragraph {
   text-align: left;
+
 }
 
 a {
-  color: white;
+  color:#fb8072;
 }
 
 body {
   font-family: "futura";
-  color: white;
- background-image: url(orange.jpg);
+  color: #fb8072;
+ background-image: url(banana.jpg);
  background-repeat: no-repeat;
  background-size: 100%;
   font-size: 30px;
+
 
 }
