@@ -8,13 +8,20 @@
   text-align: left;
 }
 
+.box {
+  background-color: rgba(225,255,255,0.5);
+  border: 2px white;
+  
+}
+
+
 a {
-  color: black;
+  color: #ff8800;
 }
 
 body {
   font-family: "futura";
-  color: black;
+  color: #ff8800;
  background-image: url(dogball.jpg);
  background-repeat: no-repeat;
  background-size: 100%;

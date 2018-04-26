@@ -8,13 +8,20 @@
   text-align: left;
 }
 
+.box {
+  background-color: rgba(225,255,255,0.5);
+  border: 2px white;
+  
+}
+
+
 a {
-  color: white;
+  color: #3c7349;
 }
 
 body {
   font-family: "futura";
-  color: white;
+  color: #3c7349;
  background-image: url(orange.jpg);
  background-repeat: no-repeat;
  background-size: 100%;

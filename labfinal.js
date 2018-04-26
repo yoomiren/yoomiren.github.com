@@ -47,4 +47,4 @@ $('#quiz').quiz({
       'incorrectResponse': 'Wrong!'
     }
   ]
-});
+});；
