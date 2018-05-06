@@ -44,7 +44,7 @@ $('#quiz').quiz({
       ],
       'correctIndex': 0,
       'correctResponse': 'Correct! Keep going! ',
-      'incorrectResponse': 'Sorry...you will never be able to do both at the same time.'
+      'incorrectResponse': 'Sorry...you will never be able to do both at the same time.',
     },
     {
       'q': 'Drinking alcohol kills brain cells.',
@@ -66,7 +66,6 @@ $('#quiz').quiz({
       'correctResponse': 'One person shed more than 10 pounds of skin, it is 40 pounds. ',
       'incorrectResponse': 'Sorry, thanks for playing.'
     
-      
-    },
+       }
   ]
 });
