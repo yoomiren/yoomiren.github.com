@@ -67,5 +67,5 @@ $('#quiz').quiz({
       'incorrectResponse': 'Sorry, thanks for playing.'
     }
 
-  ]
+  ],
 });
