@@ -10,9 +10,9 @@ h1 {
 }
 
 .sub {
-  color: #777;
+  color: pink;
   font-family: helvetica;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 #quiz-counter {

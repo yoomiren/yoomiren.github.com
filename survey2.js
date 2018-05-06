@@ -1,7 +1,7 @@
 $('#quiz').quiz({
   
 
-  counterFormat: 'Question %current of %total',
+ 
  
   questions: [
     {
@@ -42,9 +42,7 @@ $('#quiz').quiz({
         'Not now, thank you!',
        
       ],
-      'correctIndex': 2,
-      'correctResponse': 'You can decide later',
-      'incorrectResponse': 'Great! Go check out our product page! '
+      
     }
   ]
 });
