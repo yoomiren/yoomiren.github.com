@@ -65,7 +65,7 @@ $('#quiz').quiz({
       'correctIndex': 1,
       'correctResponse': 'One person shed more than 10 pounds of skin, it is 40 pounds. ',
       'incorrectResponse': 'Sorry, thanks for playing.'
-    }
+    },
 
   ],
 });
