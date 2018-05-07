@@ -78,11 +78,11 @@ function checkScore(a){
   console.log("Your answer to check: "+ a);
   if(a === correctAnswer){
     console.log("Right answer!");
-    totalScore +=20;
+    totalScore += 20;
     console.log(totalScore);
   } else{
     console.log("Wrong answer!");
-    totalScore +=0;
+    totalScore += 0;
     console.log(totalScore);
   }
 }
