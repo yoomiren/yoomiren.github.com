@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: pink;
+    font-family: futura;
+    color: black;
+}
+
+.wrapper {
+    width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    position: relative;
+}
+
+h1 {
+    display: inline-block;
+    color: black;
+    font-size: 35px;
+    font-weight: normal;
+    padding: 4px 20px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+.items {
+    display: block;
+    margin: 20px 0;
+}
+.item {
+    background-color: #fff;
+    float: left;
+    margin: 0 15px 15px 0;
+    width: 250px;
+    padding: 20px;
+    height: 250px;
+}
+.item img {
+    display: inline-block;
+}
+
+h2 {
+    font-size: 15px;
+    display: block;
+    margin: 0 0 10px 0;
+    padding: 0 0 5px 0;
+}
+
+button {
+    border: 1px solid black;
+    padding: 4px 14px;
+    background-color: #fff;
+    color: black;
+    float: right;
+    margin: 4px 0;
+    font-weight: bold;
+    
+}
+
+span {
+    float: right;
+}
+.shopping-cart {
+    display: inline-block;
+    background: url('http://cdn1.iconfinder.com/data/icons/jigsoar-icons/24/_cart.png') no-repeat 0 0;
+    width: 30px;
+    height: 30px;
+    margin: 0 10px 0 0;
+
+}
+.shakeit {
+      -webkit-animation-name: thumb;
+	-webkit-animation-duration: 200ms;
+	-webkit-transform-origin:50% 50%;
+	-webkit-animation-iteration-count: 2;
+	-webkit-animation-timing-function: linear;
+}
+.itemaddedanimate {
+  -webkit-transition: all ease-in-out 0.5s;
+}
+@-webkit-keyframes thumb {
+	0% { -webkit-transform: scale(1); }
+	50% { -webkit-transform: scale(0.8); }
+	100% { -webkit-transform: scale(1); }
+}
+img {
+  max-width:50%;
+}
